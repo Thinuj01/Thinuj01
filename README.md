@@ -17,13 +17,6 @@ I enjoy working on **real-world applications**, exploring **modern frameworks**,
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thinuj01&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinuj01&layout=compact)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: thinujahettiarachchi@gmail.com
