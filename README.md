@@ -22,7 +22,6 @@ I enjoy working on **real-world applications**, exploring **modern frameworks**,
 - 📧 Email: thinujahettiarachchi@gmail.com
 - 💼 LinkedIn: [Thinuja Hettiarachchi](https://www.linkedin.com/in/thinuja-hettiarachchi/)
 - 🌍 GitHub: [Thinuj01](https://github.com/Thinuj01)
-- 🌐 Portfolio: [Thinuja Hettiarachchi](https://www.thinujahettiarachchi.me/)
 ---
 
 ⭐ *If you like my work, feel free to star my repositories!*  
